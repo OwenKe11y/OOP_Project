@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ie.gmit.sw","c":"MenuRun","l":"MenuRun()","url":"%3Cinit%3E()"},{"p":"ie.gmit.sw","c":"MenuRun","l":"showMenuOptions()"}]
